@@ -29,4 +29,4 @@ Data Science student at **UC San Diego** (B.S., March 2027) and project manager 
 
 ### 📫 Connect
 
-[Portfolio](PORTFOLIO_URL) · [LinkedIn](https://linkedin.com/in/michael-petersen-244873212) · [Email](mailto:YOUR_EMAIL)
+[Portfolio](https://m1petersen.github.io/) · [LinkedIn](https://linkedin.com/in/michael-petersen-244873212) · [Email](mailto:YOUR_EMAIL)
