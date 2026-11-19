@@ -21,8 +21,11 @@ Data Science student at **UC San Diego** (B.S., March 2027) and project manager 
 ### 🛠️ Toolkit
 
 **Languages:** Python · SQL · JavaScript
+
 **ML / Data:** pandas · NumPy · scikit-learn · PyTorch · fastText
+
 **Visualization:** D3.js · Matplotlib · Plotly
+
 **Tools:** Git · Jupyter · VS Code
 
 ---
